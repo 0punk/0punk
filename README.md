@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Good programmers copy codes, great programmers steal codes.
+Good programmers write codes, great programmers steal codes.
